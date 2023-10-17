@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "java",
+			"path": "../../../../../java"
+		},
+		{
+			"name": "CAP02",
+			"path": "../../../../../Desktop/JAVA/hello/CAP02"
+		},
+		{
+			"name": "CAP04",
+			"path": "../../../../../Desktop/JAVA/hello/CAP04"
+		},
+		{
+			"name": ".vscode",
+			"path": "../../../../../Desktop/JAVA/hello/.vscode"
+		},
+		{
+			"name": "CAP03",
+			"path": "../../../../../Desktop/JAVA/hello/CAP03"
+		},
+		{
+			"name": "CAP01",
+			"path": "../../../../../Desktop/JAVA/hello/CAP01"
+		},
+		{
+			"name": "bin",
+			"path": "../../../../../Desktop/JAVA/hello/bin"
+		},
+		{
+			"path": "../../../../../Desktop/JAVA/hello/lib"
+		},
+		{
+			"path": "../../../../../Desktop/JAVA/hello/src"
+		}
+	],
+	"settings": {}
+}
